@@ -1,0 +1,15 @@
+C:\Users\shang\OneDrive\Desktop\DHIS-API\19LaboratoryServices\bin\Debug\19LaboratoryServices.exe.config
+C:\Users\shang\OneDrive\Desktop\DHIS-API\19LaboratoryServices\bin\Debug\19LaboratoryServices.exe
+C:\Users\shang\OneDrive\Desktop\DHIS-API\19LaboratoryServices\bin\Debug\19LaboratoryServices.pdb
+C:\Users\shang\OneDrive\Desktop\DHIS-API\19LaboratoryServices\bin\Debug\19LaboratoryServices.xml
+C:\Users\shang\OneDrive\Desktop\DHIS-API\19LaboratoryServices\obj\Debug\19LaboratoryServices.vbproj.AssemblyReference.cache
+C:\Users\shang\OneDrive\Desktop\DHIS-API\19LaboratoryServices\obj\Debug\_19LaboratoryServices.Resources.resources
+C:\Users\shang\OneDrive\Desktop\DHIS-API\19LaboratoryServices\obj\Debug\19LaboratoryServices.vbproj.GenerateResource.cache
+C:\Users\shang\OneDrive\Desktop\DHIS-API\19LaboratoryServices\obj\Debug\19LaboratoryServices.vbproj.CoreCompileInputs.cache
+C:\Users\shang\OneDrive\Desktop\DHIS-API\19LaboratoryServices\obj\Debug\19LaboratoryServices.exe
+C:\Users\shang\OneDrive\Desktop\DHIS-API\19LaboratoryServices\obj\Debug\19LaboratoryServices.xml
+C:\Users\shang\OneDrive\Desktop\DHIS-API\19LaboratoryServices\obj\Debug\19LaboratoryServices.pdb
+C:\Users\shang\OneDrive\Desktop\DHIS-API\19LaboratoryServices\obj\Debug\_19LaboratoryServices.LaboratoryServices.resources
+C:\Users\shang\OneDrive\Desktop\DHIS-API\19LaboratoryServices\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shang\OneDrive\Desktop\DHIS-API\19LaboratoryServices\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shang\OneDrive\Desktop\DHIS-API\19LaboratoryServices\obj\Debug\19Labora.4E8E727A.Up2Date
