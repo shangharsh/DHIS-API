@@ -1,0 +1,15 @@
+C:\Users\shang\OneDrive\Desktop\DHIS-API\02-1 Immunization Dataset(NEW)\bin\Debug\02-1 Immunization Dataset(NEW).exe.config
+C:\Users\shang\OneDrive\Desktop\DHIS-API\02-1 Immunization Dataset(NEW)\bin\Debug\02-1 Immunization Dataset(NEW).exe
+C:\Users\shang\OneDrive\Desktop\DHIS-API\02-1 Immunization Dataset(NEW)\bin\Debug\02-1 Immunization Dataset(NEW).pdb
+C:\Users\shang\OneDrive\Desktop\DHIS-API\02-1 Immunization Dataset(NEW)\bin\Debug\02-1 Immunization Dataset(NEW).xml
+C:\Users\shang\OneDrive\Desktop\DHIS-API\02-1 Immunization Dataset(NEW)\obj\Debug\02-1 Immunization Dataset(NEW).vbproj.AssemblyReference.cache
+C:\Users\shang\OneDrive\Desktop\DHIS-API\02-1 Immunization Dataset(NEW)\obj\Debug\_02_1_Immunization_Dataset_NEW_.ImmunizationProgram.resources
+C:\Users\shang\OneDrive\Desktop\DHIS-API\02-1 Immunization Dataset(NEW)\obj\Debug\_02_1_Immunization_Dataset_NEW_.Resources.resources
+C:\Users\shang\OneDrive\Desktop\DHIS-API\02-1 Immunization Dataset(NEW)\obj\Debug\02-1 Immunization Dataset(NEW).vbproj.GenerateResource.cache
+C:\Users\shang\OneDrive\Desktop\DHIS-API\02-1 Immunization Dataset(NEW)\obj\Debug\02-1 Immunization Dataset(NEW).vbproj.CoreCompileInputs.cache
+C:\Users\shang\OneDrive\Desktop\DHIS-API\02-1 Immunization Dataset(NEW)\obj\Debug\02-1 Immunization Dataset(NEW).exe
+C:\Users\shang\OneDrive\Desktop\DHIS-API\02-1 Immunization Dataset(NEW)\obj\Debug\02-1 Immunization Dataset(NEW).xml
+C:\Users\shang\OneDrive\Desktop\DHIS-API\02-1 Immunization Dataset(NEW)\obj\Debug\02-1 Immunization Dataset(NEW).pdb
+C:\Users\shang\OneDrive\Desktop\DHIS-API\02-1 Immunization Dataset(NEW)\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shang\OneDrive\Desktop\DHIS-API\02-1 Immunization Dataset(NEW)\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shang\OneDrive\Desktop\DHIS-API\02-1 Immunization Dataset(NEW)\obj\Debug\02-1 Imm.51F30DEB.Up2Date
