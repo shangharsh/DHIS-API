@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{C3F45B33-F7B5-4695-AC18-1CEF58B1C185}|02-2IntegratedManagement.vbproj|solutionrelative:childhoodillnesses.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3F45B33-F7B5-4695-AC18-1CEF58B1C185}|02-2IntegratedManagement.vbproj|c:\\users\\shang\\onedrive\\desktop\\dhis-api\\02-2integratedmanagement\\childhoodillnesses.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "AbsoluteMoniker": "D:0:0:{C3F45B33-F7B5-4695-AC18-1CEF58B1C185}|02-2IntegratedManagement.vbproj|C:\\Users\\shang\\OneDrive\\Desktop\\DHIS-API\\02-2IntegratedManagement\\childhoodillnesses.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{C3F45B33-F7B5-4695-AC18-1CEF58B1C185}|02-2IntegratedManagement.vbproj|solutionrelative:childhoodillnesses.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     }
   ],
@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "ChildHoodIllnesses.vb",
               "ToolTip": "C:\\Users\\shang\\OneDrive\\Desktop\\DHIS-API\\02-2IntegratedManagement\\ChildHoodIllnesses.vb",
               "RelativeToolTip": "ChildHoodIllnesses.vb",
-              "ViewState": "AQIAAOMCAAAAAAAAAADwv+0CAAAxAAAA",
+              "ViewState": "AQIAAP0CAAAAAAAAAAAUwAcDAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-07-07T05:55:25.865Z",
               "EditorCaption": ""
@@ -58,8 +58,7 @@
               "ToolTip": "C:\\Users\\shang\\OneDrive\\Desktop\\DHIS-API\\02-2IntegratedManagement\\ChildHoodIllnesses.vb [Design]",
               "RelativeToolTip": "ChildHoodIllnesses.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-07-07T05:09:35.924Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-07-07T05:09:35.924Z"
             }
           ]
         }

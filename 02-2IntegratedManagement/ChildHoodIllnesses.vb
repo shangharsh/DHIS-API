@@ -3,7 +3,7 @@ Imports System.Net
 Imports System.Text
 Imports Newtonsoft.Json.Linq
 Public Class ChildHoodIllnesses
-    Dim dataSetId As String = "wFShrjdBjpR" 'UID of Dataset
+    Dim dataSetId As String = "HMy0VijjNDb" 'UID of Dataset
     Dim todayDate As String = Date.Now().ToString("yyyy-MM-dd") 'Today Date
     Dim period As String = "208102" 'Eg: 208101 for 2080 Baisakh
     Dim orgUnitId As String = "aUv4lHwAFh9" 'Eg: Hospital UID
@@ -16,10 +16,10 @@ Public Class ChildHoodIllnesses
     Private Sub BtnInfantPush_Click(sender As Object, e As EventArgs) Handles BtnInfantPush.Click
 
         Dim jsonData As String = "{" &
-    """dataSet"": ""HMy0VijjNDb""," &
-    """completeDate"": ""2024-07-07""," &
-    """period"": ""208102""," &
-    """orgUnit"": ""aUv4lHwAFh9""," &
+    """dataSet"": """& dataSetId &"""," &
+    """completeDate"": """& todayDate &"""," &
+    """period"": """& period &"""," &
+    """orgUnit"": """& orgUnitId &"""," &
     """attributeOptionCombo"": """"," &
     """dataValues"": [" &
         "{" &

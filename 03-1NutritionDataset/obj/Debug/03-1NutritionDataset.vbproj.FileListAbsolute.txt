@@ -1,0 +1,15 @@
+C:\Users\shang\OneDrive\Desktop\DHIS-API\03-1NutritionDataset\obj\Debug\03-1NutritionDataset.vbproj.AssemblyReference.cache
+C:\Users\shang\OneDrive\Desktop\DHIS-API\03-1NutritionDataset\obj\Debug\_03_1NutritionDataset.Resources.resources
+C:\Users\shang\OneDrive\Desktop\DHIS-API\03-1NutritionDataset\obj\Debug\_03_1NutritionDataset.NutritionProgram.resources
+C:\Users\shang\OneDrive\Desktop\DHIS-API\03-1NutritionDataset\obj\Debug\03-1NutritionDataset.vbproj.GenerateResource.cache
+C:\Users\shang\OneDrive\Desktop\DHIS-API\03-1NutritionDataset\obj\Debug\03-1NutritionDataset.vbproj.CoreCompileInputs.cache
+C:\Users\shang\OneDrive\Desktop\DHIS-API\03-1NutritionDataset\bin\Debug\03-1NutritionDataset.exe.config
+C:\Users\shang\OneDrive\Desktop\DHIS-API\03-1NutritionDataset\bin\Debug\03-1NutritionDataset.exe
+C:\Users\shang\OneDrive\Desktop\DHIS-API\03-1NutritionDataset\bin\Debug\03-1NutritionDataset.pdb
+C:\Users\shang\OneDrive\Desktop\DHIS-API\03-1NutritionDataset\bin\Debug\03-1NutritionDataset.xml
+C:\Users\shang\OneDrive\Desktop\DHIS-API\03-1NutritionDataset\obj\Debug\03-1NutritionDataset.exe
+C:\Users\shang\OneDrive\Desktop\DHIS-API\03-1NutritionDataset\obj\Debug\03-1NutritionDataset.xml
+C:\Users\shang\OneDrive\Desktop\DHIS-API\03-1NutritionDataset\obj\Debug\03-1NutritionDataset.pdb
+C:\Users\shang\OneDrive\Desktop\DHIS-API\03-1NutritionDataset\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shang\OneDrive\Desktop\DHIS-API\03-1NutritionDataset\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shang\OneDrive\Desktop\DHIS-API\03-1NutritionDataset\obj\Debug\03-1Nutr.AA46D482.Up2Date
