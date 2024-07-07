@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shang\\OneDrive\\Desktop\\DHIS-API\\02-2IntegratedManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F45B33-F7B5-4695-AC18-1CEF58B1C185}|02-2IntegratedManagement.vbproj|c:\\users\\shang\\onedrive\\desktop\\dhis-api\\02-2integratedmanagement\\childhoodillnesses.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C3F45B33-F7B5-4695-AC18-1CEF58B1C185}|02-2IntegratedManagement.vbproj|solutionrelative:childhoodillnesses.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F45B33-F7B5-4695-AC18-1CEF58B1C185}|02-2IntegratedManagement.vbproj|c:\\users\\shang\\onedrive\\desktop\\dhis-api\\02-2integratedmanagement\\childhoodillnesses.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C3F45B33-F7B5-4695-AC18-1CEF58B1C185}|02-2IntegratedManagement.vbproj|solutionrelative:childhoodillnesses.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChildHoodIllnesses.vb",
+              "DocumentMoniker": "C:\\Users\\shang\\OneDrive\\Desktop\\DHIS-API\\02-2IntegratedManagement\\ChildHoodIllnesses.vb",
+              "RelativeDocumentMoniker": "ChildHoodIllnesses.vb",
+              "ToolTip": "C:\\Users\\shang\\OneDrive\\Desktop\\DHIS-API\\02-2IntegratedManagement\\ChildHoodIllnesses.vb",
+              "RelativeToolTip": "ChildHoodIllnesses.vb",
+              "ViewState": "AQIAAOMCAAAAAAAAAADwv+0CAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-07T05:55:25.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChildHoodIllnesses.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\shang\\OneDrive\\Desktop\\DHIS-API\\02-2IntegratedManagement\\ChildHoodIllnesses.vb",
+              "RelativeDocumentMoniker": "ChildHoodIllnesses.vb",
+              "ToolTip": "C:\\Users\\shang\\OneDrive\\Desktop\\DHIS-API\\02-2IntegratedManagement\\ChildHoodIllnesses.vb [Design]",
+              "RelativeToolTip": "ChildHoodIllnesses.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-07T05:09:35.924Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
