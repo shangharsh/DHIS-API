@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shang\\OneDrive\\Desktop\\DHIS-API\\03-2 Nutrition Dataset - Acute Malnutrition(NEW)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7104CF-1036-4E93-AF88-4EE33C4D161D}|03-2 Nutrition Dataset - Acute Malnutrition(NEW).vbproj|c:\\users\\shang\\onedrive\\desktop\\dhis-api\\03-2 nutrition dataset - acute malnutrition(new)\\acutemalnutrition.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{AC7104CF-1036-4E93-AF88-4EE33C4D161D}|03-2 Nutrition Dataset - Acute Malnutrition(NEW).vbproj|solutionrelative:acutemalnutrition.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7104CF-1036-4E93-AF88-4EE33C4D161D}|03-2 Nutrition Dataset - Acute Malnutrition(NEW).vbproj|c:\\users\\shang\\onedrive\\desktop\\dhis-api\\03-2 nutrition dataset - acute malnutrition(new)\\acutemalnutrition.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{AC7104CF-1036-4E93-AF88-4EE33C4D161D}|03-2 Nutrition Dataset - Acute Malnutrition(NEW).vbproj|solutionrelative:acutemalnutrition.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AcuteMalnutrition.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\shang\\OneDrive\\Desktop\\DHIS-API\\03-2 Nutrition Dataset - Acute Malnutrition(NEW)\\AcuteMalnutrition.vb",
+              "RelativeDocumentMoniker": "AcuteMalnutrition.vb",
+              "ToolTip": "C:\\Users\\shang\\OneDrive\\Desktop\\DHIS-API\\03-2 Nutrition Dataset - Acute Malnutrition(NEW)\\AcuteMalnutrition.vb [Design]",
+              "RelativeToolTip": "AcuteMalnutrition.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-02T05:05:23.075Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AcuteMalnutrition.vb",
+              "DocumentMoniker": "C:\\Users\\shang\\OneDrive\\Desktop\\DHIS-API\\03-2 Nutrition Dataset - Acute Malnutrition(NEW)\\AcuteMalnutrition.vb",
+              "RelativeDocumentMoniker": "AcuteMalnutrition.vb",
+              "ToolTip": "C:\\Users\\shang\\OneDrive\\Desktop\\DHIS-API\\03-2 Nutrition Dataset - Acute Malnutrition(NEW)\\AcuteMalnutrition.vb",
+              "RelativeToolTip": "AcuteMalnutrition.vb",
+              "ViewState": "AQIAALMCAAAAAAAAAAAAAMYCAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-01T06:13:57.121Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

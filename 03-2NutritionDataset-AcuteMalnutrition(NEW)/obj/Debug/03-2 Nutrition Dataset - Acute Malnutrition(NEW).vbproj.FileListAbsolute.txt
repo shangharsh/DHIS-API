@@ -1,0 +1,15 @@
+C:\Users\shang\OneDrive\Desktop\DHIS-API\03-2 Nutrition Dataset - Acute Malnutrition(NEW)\obj\Debug\03-2 Nutrition Dataset - Acute Malnutrition(NEW).vbproj.AssemblyReference.cache
+C:\Users\shang\OneDrive\Desktop\DHIS-API\03-2 Nutrition Dataset - Acute Malnutrition(NEW)\obj\Debug\_03_2_Nutrition_Dataset___Acute_Malnutrition_NEW_.AcuteMalnutrition.resources
+C:\Users\shang\OneDrive\Desktop\DHIS-API\03-2 Nutrition Dataset - Acute Malnutrition(NEW)\obj\Debug\_03_2_Nutrition_Dataset___Acute_Malnutrition_NEW_.Resources.resources
+C:\Users\shang\OneDrive\Desktop\DHIS-API\03-2 Nutrition Dataset - Acute Malnutrition(NEW)\obj\Debug\03-2 Nutrition Dataset - Acute Malnutrition(NEW).vbproj.GenerateResource.cache
+C:\Users\shang\OneDrive\Desktop\DHIS-API\03-2 Nutrition Dataset - Acute Malnutrition(NEW)\obj\Debug\03-2 Nutrition Dataset - Acute Malnutrition(NEW).vbproj.CoreCompileInputs.cache
+C:\Users\shang\OneDrive\Desktop\DHIS-API\03-2 Nutrition Dataset - Acute Malnutrition(NEW)\bin\Debug\03-2 Nutrition Dataset - Acute Malnutrition(NEW).exe.config
+C:\Users\shang\OneDrive\Desktop\DHIS-API\03-2 Nutrition Dataset - Acute Malnutrition(NEW)\bin\Debug\03-2 Nutrition Dataset - Acute Malnutrition(NEW).exe
+C:\Users\shang\OneDrive\Desktop\DHIS-API\03-2 Nutrition Dataset - Acute Malnutrition(NEW)\bin\Debug\03-2 Nutrition Dataset - Acute Malnutrition(NEW).pdb
+C:\Users\shang\OneDrive\Desktop\DHIS-API\03-2 Nutrition Dataset - Acute Malnutrition(NEW)\bin\Debug\03-2 Nutrition Dataset - Acute Malnutrition(NEW).xml
+C:\Users\shang\OneDrive\Desktop\DHIS-API\03-2 Nutrition Dataset - Acute Malnutrition(NEW)\obj\Debug\03-2 Nutrition Dataset - Acute Malnutrition(NEW).exe
+C:\Users\shang\OneDrive\Desktop\DHIS-API\03-2 Nutrition Dataset - Acute Malnutrition(NEW)\obj\Debug\03-2 Nutrition Dataset - Acute Malnutrition(NEW).xml
+C:\Users\shang\OneDrive\Desktop\DHIS-API\03-2 Nutrition Dataset - Acute Malnutrition(NEW)\obj\Debug\03-2 Nutrition Dataset - Acute Malnutrition(NEW).pdb
+C:\Users\shang\OneDrive\Desktop\DHIS-API\03-2 Nutrition Dataset - Acute Malnutrition(NEW)\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shang\OneDrive\Desktop\DHIS-API\03-2 Nutrition Dataset - Acute Malnutrition(NEW)\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shang\OneDrive\Desktop\DHIS-API\03-2 Nutrition Dataset - Acute Malnutrition(NEW)\obj\Debug\03-2 Nut.472C020F.Up2Date
