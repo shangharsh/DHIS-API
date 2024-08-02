@@ -1,0 +1,15 @@
+C:\Users\shang\OneDrive\Desktop\DHIS-API\06PopulationManagementProgram\obj\Debug\06PopulationManagementProgram.vbproj.AssemblyReference.cache
+C:\Users\shang\OneDrive\Desktop\DHIS-API\06PopulationManagementProgram\obj\Debug\_06PopulationManagementProgram.Resources.resources
+C:\Users\shang\OneDrive\Desktop\DHIS-API\06PopulationManagementProgram\obj\Debug\_06PopulationManagementProgram.PopulationManagementProgram.resources
+C:\Users\shang\OneDrive\Desktop\DHIS-API\06PopulationManagementProgram\obj\Debug\06PopulationManagementProgram.vbproj.GenerateResource.cache
+C:\Users\shang\OneDrive\Desktop\DHIS-API\06PopulationManagementProgram\obj\Debug\06PopulationManagementProgram.vbproj.CoreCompileInputs.cache
+C:\Users\shang\OneDrive\Desktop\DHIS-API\06PopulationManagementProgram\bin\Debug\06PopulationManagementProgram.exe.config
+C:\Users\shang\OneDrive\Desktop\DHIS-API\06PopulationManagementProgram\bin\Debug\06PopulationManagementProgram.exe
+C:\Users\shang\OneDrive\Desktop\DHIS-API\06PopulationManagementProgram\bin\Debug\06PopulationManagementProgram.pdb
+C:\Users\shang\OneDrive\Desktop\DHIS-API\06PopulationManagementProgram\bin\Debug\06PopulationManagementProgram.xml
+C:\Users\shang\OneDrive\Desktop\DHIS-API\06PopulationManagementProgram\obj\Debug\06PopulationManagementProgram.exe
+C:\Users\shang\OneDrive\Desktop\DHIS-API\06PopulationManagementProgram\obj\Debug\06PopulationManagementProgram.xml
+C:\Users\shang\OneDrive\Desktop\DHIS-API\06PopulationManagementProgram\obj\Debug\06PopulationManagementProgram.pdb
+C:\Users\shang\OneDrive\Desktop\DHIS-API\06PopulationManagementProgram\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shang\OneDrive\Desktop\DHIS-API\06PopulationManagementProgram\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shang\OneDrive\Desktop\DHIS-API\06PopulationManagementProgram\obj\Debug\06Popula.42587D84.Up2Date
