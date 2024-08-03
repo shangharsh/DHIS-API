@@ -4,7 +4,7 @@ Imports System.Text
 Imports Newtonsoft.Json.Linq
 
 Public Class PopulationManagementProgram
-    Dim dataSetId As String = "CpNy3fSWa0o" 'UID of Dataset
+    Dim dataSetId As String = "WQ36bmTcenr" 'UID of Dataset
     Dim todayDate As String = Date.Now().ToString("yyyy-MM-dd") 'Today Date
     Dim period As String = "208102" 'Eg: 208101 for 2080 Baisakh
     Dim orgUnitId As String = "aUv4lHwAFh9" 'Eg: Hospital UID
@@ -16,7 +16,7 @@ Public Class PopulationManagementProgram
 
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
         Dim jsonData As String = "{" &
-    """dataSet"": ""CpNy3fSWa0o""," &
+    """dataSet"": ""WQ36bmTcenr""," &
     """completeDate"": ""2024-07-31""," &
     """period"": ""208102""," &
     """orgUnit"": ""aUv4lHwAFh9""," &
