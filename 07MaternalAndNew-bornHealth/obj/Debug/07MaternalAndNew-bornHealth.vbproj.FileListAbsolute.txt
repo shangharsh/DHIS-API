@@ -1,0 +1,16 @@
+C:\Users\shang\OneDrive\Desktop\DHIS-API\07MaternalAndNew-bornHealth\bin\Debug\07MaternalAndNew-bornHealth.exe.config
+C:\Users\shang\OneDrive\Desktop\DHIS-API\07MaternalAndNew-bornHealth\bin\Debug\07MaternalAndNew-bornHealth.exe
+C:\Users\shang\OneDrive\Desktop\DHIS-API\07MaternalAndNew-bornHealth\bin\Debug\07MaternalAndNew-bornHealth.pdb
+C:\Users\shang\OneDrive\Desktop\DHIS-API\07MaternalAndNew-bornHealth\bin\Debug\07MaternalAndNew-bornHealth.xml
+C:\Users\shang\OneDrive\Desktop\DHIS-API\07MaternalAndNew-bornHealth\obj\Debug\07MaternalAndNew-bornHealth.vbproj.AssemblyReference.cache
+C:\Users\shang\OneDrive\Desktop\DHIS-API\07MaternalAndNew-bornHealth\obj\Debug\_07MaternalAndNew_bornHealth._07MaternalAndNew_bornHealth.resources
+C:\Users\shang\OneDrive\Desktop\DHIS-API\07MaternalAndNew-bornHealth\obj\Debug\_07MaternalAndNew_bornHealth.Resources.resources
+C:\Users\shang\OneDrive\Desktop\DHIS-API\07MaternalAndNew-bornHealth\obj\Debug\07MaternalAndNew-bornHealth.vbproj.GenerateResource.cache
+C:\Users\shang\OneDrive\Desktop\DHIS-API\07MaternalAndNew-bornHealth\obj\Debug\07MaternalAndNew-bornHealth.vbproj.CoreCompileInputs.cache
+C:\Users\shang\OneDrive\Desktop\DHIS-API\07MaternalAndNew-bornHealth\obj\Debug\07MaternalAndNew-bornHealth.exe
+C:\Users\shang\OneDrive\Desktop\DHIS-API\07MaternalAndNew-bornHealth\obj\Debug\07MaternalAndNew-bornHealth.xml
+C:\Users\shang\OneDrive\Desktop\DHIS-API\07MaternalAndNew-bornHealth\obj\Debug\07MaternalAndNew-bornHealth.pdb
+C:\Users\shang\OneDrive\Desktop\DHIS-API\07MaternalAndNew-bornHealth\obj\Debug\_07MaternalAndNew_bornHealth.Form2.resources
+C:\Users\shang\OneDrive\Desktop\DHIS-API\07MaternalAndNew-bornHealth\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shang\OneDrive\Desktop\DHIS-API\07MaternalAndNew-bornHealth\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shang\OneDrive\Desktop\DHIS-API\07MaternalAndNew-bornHealth\obj\Debug\07Matern.DE82EC18.Up2Date
