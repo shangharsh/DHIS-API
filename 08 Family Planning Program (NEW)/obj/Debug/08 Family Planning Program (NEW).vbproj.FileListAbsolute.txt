@@ -1,0 +1,15 @@
+C:\Users\shang\OneDrive\Desktop\DHIS-API\08 Family Planning Program (NEW)\obj\Debug\08 Family Planning Program (NEW).vbproj.AssemblyReference.cache
+C:\Users\shang\OneDrive\Desktop\DHIS-API\08 Family Planning Program (NEW)\obj\Debug\_08_Family_Planning_Program__NEW_.Family_Planning_Program__NEW_.resources
+C:\Users\shang\OneDrive\Desktop\DHIS-API\08 Family Planning Program (NEW)\obj\Debug\_08_Family_Planning_Program__NEW_.Resources.resources
+C:\Users\shang\OneDrive\Desktop\DHIS-API\08 Family Planning Program (NEW)\obj\Debug\08 Family Planning Program (NEW).vbproj.GenerateResource.cache
+C:\Users\shang\OneDrive\Desktop\DHIS-API\08 Family Planning Program (NEW)\obj\Debug\08 Family Planning Program (NEW).vbproj.CoreCompileInputs.cache
+C:\Users\shang\OneDrive\Desktop\DHIS-API\08 Family Planning Program (NEW)\bin\Debug\08 Family Planning Program (NEW).exe.config
+C:\Users\shang\OneDrive\Desktop\DHIS-API\08 Family Planning Program (NEW)\bin\Debug\08 Family Planning Program (NEW).exe
+C:\Users\shang\OneDrive\Desktop\DHIS-API\08 Family Planning Program (NEW)\bin\Debug\08 Family Planning Program (NEW).pdb
+C:\Users\shang\OneDrive\Desktop\DHIS-API\08 Family Planning Program (NEW)\bin\Debug\08 Family Planning Program (NEW).xml
+C:\Users\shang\OneDrive\Desktop\DHIS-API\08 Family Planning Program (NEW)\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shang\OneDrive\Desktop\DHIS-API\08 Family Planning Program (NEW)\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shang\OneDrive\Desktop\DHIS-API\08 Family Planning Program (NEW)\obj\Debug\08 Famil.3491794F.Up2Date
+C:\Users\shang\OneDrive\Desktop\DHIS-API\08 Family Planning Program (NEW)\obj\Debug\08 Family Planning Program (NEW).exe
+C:\Users\shang\OneDrive\Desktop\DHIS-API\08 Family Planning Program (NEW)\obj\Debug\08 Family Planning Program (NEW).xml
+C:\Users\shang\OneDrive\Desktop\DHIS-API\08 Family Planning Program (NEW)\obj\Debug\08 Family Planning Program (NEW).pdb
