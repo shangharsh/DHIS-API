@@ -1,0 +1,15 @@
+C:\Users\shang\OneDrive\Desktop\DHIS-API\09 Reproductive Health Morbidity Service (NEW)\obj\Debug\09 Reproductive Health Morbidity Service (NEW).vbproj.AssemblyReference.cache
+C:\Users\shang\OneDrive\Desktop\DHIS-API\09 Reproductive Health Morbidity Service (NEW)\obj\Debug\_09_Reproductive_Health_Morbidity_Service__NEW_.Resources.resources
+C:\Users\shang\OneDrive\Desktop\DHIS-API\09 Reproductive Health Morbidity Service (NEW)\obj\Debug\_09_Reproductive_Health_Morbidity_Service__NEW_.ReproductiveHealthMorbidityService.resources
+C:\Users\shang\OneDrive\Desktop\DHIS-API\09 Reproductive Health Morbidity Service (NEW)\obj\Debug\09 Reproductive Health Morbidity Service (NEW).vbproj.GenerateResource.cache
+C:\Users\shang\OneDrive\Desktop\DHIS-API\09 Reproductive Health Morbidity Service (NEW)\obj\Debug\09 Reproductive Health Morbidity Service (NEW).vbproj.CoreCompileInputs.cache
+C:\Users\shang\OneDrive\Desktop\DHIS-API\09 Reproductive Health Morbidity Service (NEW)\bin\Debug\09 Reproductive Health Morbidity Service (NEW).exe.config
+C:\Users\shang\OneDrive\Desktop\DHIS-API\09 Reproductive Health Morbidity Service (NEW)\bin\Debug\09 Reproductive Health Morbidity Service (NEW).exe
+C:\Users\shang\OneDrive\Desktop\DHIS-API\09 Reproductive Health Morbidity Service (NEW)\bin\Debug\09 Reproductive Health Morbidity Service (NEW).pdb
+C:\Users\shang\OneDrive\Desktop\DHIS-API\09 Reproductive Health Morbidity Service (NEW)\bin\Debug\09 Reproductive Health Morbidity Service (NEW).xml
+C:\Users\shang\OneDrive\Desktop\DHIS-API\09 Reproductive Health Morbidity Service (NEW)\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shang\OneDrive\Desktop\DHIS-API\09 Reproductive Health Morbidity Service (NEW)\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shang\OneDrive\Desktop\DHIS-API\09 Reproductive Health Morbidity Service (NEW)\obj\Debug\09 Repro.6B21DEAC.Up2Date
+C:\Users\shang\OneDrive\Desktop\DHIS-API\09 Reproductive Health Morbidity Service (NEW)\obj\Debug\09 Reproductive Health Morbidity Service (NEW).exe
+C:\Users\shang\OneDrive\Desktop\DHIS-API\09 Reproductive Health Morbidity Service (NEW)\obj\Debug\09 Reproductive Health Morbidity Service (NEW).xml
+C:\Users\shang\OneDrive\Desktop\DHIS-API\09 Reproductive Health Morbidity Service (NEW)\obj\Debug\09 Reproductive Health Morbidity Service (NEW).pdb
