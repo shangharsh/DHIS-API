@@ -1,0 +1,15 @@
+C:\Users\shang\OneDrive\Desktop\DHIS-API\13 Leprosy Elimination Program (NEW)\obj\Debug\13 Leprosy Elimination Program (NEW).vbproj.AssemblyReference.cache
+C:\Users\shang\OneDrive\Desktop\DHIS-API\13 Leprosy Elimination Program (NEW)\obj\Debug\_13_Leprosy_Elimination_Program__NEW_.LeprosyEliminationProgram.resources
+C:\Users\shang\OneDrive\Desktop\DHIS-API\13 Leprosy Elimination Program (NEW)\obj\Debug\_13_Leprosy_Elimination_Program__NEW_.Resources.resources
+C:\Users\shang\OneDrive\Desktop\DHIS-API\13 Leprosy Elimination Program (NEW)\obj\Debug\13 Leprosy Elimination Program (NEW).vbproj.GenerateResource.cache
+C:\Users\shang\OneDrive\Desktop\DHIS-API\13 Leprosy Elimination Program (NEW)\obj\Debug\13 Leprosy Elimination Program (NEW).vbproj.CoreCompileInputs.cache
+C:\Users\shang\OneDrive\Desktop\DHIS-API\13 Leprosy Elimination Program (NEW)\bin\Debug\13 Leprosy Elimination Program (NEW).exe.config
+C:\Users\shang\OneDrive\Desktop\DHIS-API\13 Leprosy Elimination Program (NEW)\bin\Debug\13 Leprosy Elimination Program (NEW).exe
+C:\Users\shang\OneDrive\Desktop\DHIS-API\13 Leprosy Elimination Program (NEW)\bin\Debug\13 Leprosy Elimination Program (NEW).pdb
+C:\Users\shang\OneDrive\Desktop\DHIS-API\13 Leprosy Elimination Program (NEW)\bin\Debug\13 Leprosy Elimination Program (NEW).xml
+C:\Users\shang\OneDrive\Desktop\DHIS-API\13 Leprosy Elimination Program (NEW)\obj\Debug\13 Leprosy Elimination Program (NEW).exe
+C:\Users\shang\OneDrive\Desktop\DHIS-API\13 Leprosy Elimination Program (NEW)\obj\Debug\13 Leprosy Elimination Program (NEW).xml
+C:\Users\shang\OneDrive\Desktop\DHIS-API\13 Leprosy Elimination Program (NEW)\obj\Debug\13 Leprosy Elimination Program (NEW).pdb
+C:\Users\shang\OneDrive\Desktop\DHIS-API\13 Leprosy Elimination Program (NEW)\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shang\OneDrive\Desktop\DHIS-API\13 Leprosy Elimination Program (NEW)\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shang\OneDrive\Desktop\DHIS-API\13 Leprosy Elimination Program (NEW)\obj\Debug\13 Lepro.AFED8F71.Up2Date
