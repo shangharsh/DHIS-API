@@ -11,3 +11,6 @@ C:\Users\shang\OneDrive\Desktop\DHIS-API\15-1 TB DSTB Dataset (NEW)\obj\Debug\15
 C:\Users\shang\OneDrive\Desktop\DHIS-API\15-1 TB DSTB Dataset (NEW)\obj\Debug\15-1 TB DSTB Dataset (NEW).xml
 C:\Users\shang\OneDrive\Desktop\DHIS-API\15-1 TB DSTB Dataset (NEW)\obj\Debug\15-1 TB DSTB Dataset (NEW).pdb
 C:\Users\shang\OneDrive\Desktop\DHIS-API\15-1 TB DSTB Dataset (NEW)\obj\Debug\_15_1_TB_DSTB_Dataset__NEW_.TreatmentOutcome.resources
+C:\Users\shang\OneDrive\Desktop\DHIS-API\15-1 TB DSTB Dataset (NEW)\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shang\OneDrive\Desktop\DHIS-API\15-1 TB DSTB Dataset (NEW)\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shang\OneDrive\Desktop\DHIS-API\15-1 TB DSTB Dataset (NEW)\obj\Debug\15-1 TB .E4C70106.Up2Date
