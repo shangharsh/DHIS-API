@@ -619,10 +619,138 @@ Public Class LeprosyEliminationProgram
     End Function
 
     Private Sub Button4_Click(sender As Object, e As EventArgs) Handles Button4.Click
+        Dim jsonData As String = "{
+    ""dataSet"": """ & dataSetId & """, 
+    ""completeDate"": """ & todayDate & """, 
+    ""period"": """ & period & """, 
+    ""orgUnit"": """ & orgUnitId & """, 
+    ""attributeOptionCombo"": """", 
+    ""dataValues"": [
+    {" &
+    """dataElement"": ""N4T6cy0XUbY""," &
+    """categoryOptionCombo"": ""kdsirVNKdhm""," &
+    """value"": """ & TextBox113.Text & """," &
+    """comment"": ""नयाँ बिरामीमध्ये श्रेणी ०""" &
+    "}," &
+    "{" &
+    """dataElement"": ""uDmo3tr3KYc""," &
+    """categoryOptionCombo"": ""kdsirVNKdhm""," &
+    """value"": """ & TextBox114.Text & """," &
+    """comment"": ""नयाँ बिरामीमध्ये श्रेणी १""" &
+    "}," &
+    "{" &
+    """dataElement"": ""DGexMc5pDiZ""," &
+    """categoryOptionCombo"": ""kdsirVNKdhm""," &
+    """value"": """ & TextBox115.Text & """," &
+    """comment"": ""नयाँ बिरामीमध्ये श्रेणी २""" &
+    "}," &
+    "{" &
+    """dataElement"": ""h2KGtwlfh7W""," &
+    """categoryOptionCombo"": ""kdsirVNKdhm""," &
+    """value"": """ & TextBox116.Text & """," &
+    """comment"": ""नजाँचेको""" &
+    "}," &
+    "{" &
+    """dataElement"": ""QxEVAygN9WR""," &
+    """categoryOptionCombo"": ""kdsirVNKdhm""," &
+    """value"": """ & TextBox117.Text & """," &
+    """comment"": ""नयाँ बिरामीमध्ये श्रेणी ०""" &
+    "}," &
+    "{" &
+    """dataElement"": ""xy4iKvFet80""," &
+    """categoryOptionCombo"": ""kdsirVNKdhm""," &
+    """value"": """ & TextBox118.Text & """," &
+    """comment"": ""नयाँ बिरामीमध्ये श्रेणी १""" &
+    "}," &
+    "{" &
+    """dataElement"": ""Tm6hWbGQd31""," &
+    """categoryOptionCombo"": ""kdsirVNKdhm""," &
+    """value"": """ & TextBox119.Text & """," &
+    """comment"": ""नयाँ बिरामीमध्ये श्रेणी २""" &
+    "}," &
+    "{" &
+    """dataElement"": ""zCGZY5qslp6""," &
+    """categoryOptionCombo"": ""kdsirVNKdhm""," &
+    """value"": """ & TextBox120.Text & """," &
+    """comment"": ""नजाँचेको""" &
+    "}" &
+"]" &
+    "}"
 
+        Dim response As String = SubmitData(apiUrl, userName, passWord, jsonData)
     End Sub
 
     Private Sub Button6_Click(sender As Object, e As EventArgs) Handles Button6.Click
+        Dim jsonData As String = "{
+    ""dataSet"": """ & dataSetId & """, 
+    ""completeDate"": """ & todayDate & """, 
+    ""period"": """ & period & """, 
+    ""orgUnit"": """ & orgUnitId & """, 
+    ""attributeOptionCombo"": """", 
+    ""dataValues"": [
+    {" &
+    """dataElement"": ""cNe5TwFFhwk""," &
+    """categoryOptionCombo"": ""kdsirVNKdhm""," &
+    """value"": """ & TextBox121.Text & """," &
+    """comment"": ""नयाँ दर्ता""" &
+    "}," &
+    "{" &
+    """dataElement"": ""xIYCifwwTOO""," &
+    """categoryOptionCombo"": ""kdsirVNKdhm""," &
+    """value"": """ & TextBox122.Text & """," &
+    """comment"": ""जम्मा RFT भएका""" &
+    "}," &
+    "{" &
+    """dataElement"": ""UXyAOVwGQdJ""," &
+    """categoryOptionCombo"": ""kdsirVNKdhm""," &
+    """value"": """ & TextBox123.Text & """," &
+    """comment"": ""जम्मा Loss to follow up""" &
+    "}," &
+    "{" &
+    """dataElement"": ""iir0YXowDph""," &
+    """categoryOptionCombo"": ""kdsirVNKdhm""," &
+    """value"": """ & TextBox124.Text & """," &
+    """comment"": ""अन्य घटाइएका जम्मा""" &
+    "}," &
+    "{" &
+    """dataElement"": ""QrwshXLrkuJ""," &
+    """categoryOptionCombo"": ""kdsirVNKdhm""," &
+    """value"": """ & TextBox125.Text & """," &
+    """comment"": ""हाल उपचारमा रहेका""" &
+    "}," &
+    "{" &
+    """dataElement"": ""IGgAPKvrhOd""," &
+    """categoryOptionCombo"": ""kdsirVNKdhm""," &
+    """value"": """ & TextBox126.Text & """," &
+    """comment"": ""नयाँ दर्ता""" &
+    "}," &
+    "{" &
+    """dataElement"": ""dxcDBf3vsT2""," &
+    """categoryOptionCombo"": ""kdsirVNKdhm""," &
+    """value"": """ & TextBox127.Text & """," &
+    """comment"": ""जम्मा RFT भएका""" &
+    "}," &
+    "{" &
+    """dataElement"": ""wHm5U1cwIkO""," &
+    """categoryOptionCombo"": ""kdsirVNKdhm""," &
+    """value"": """ & TextBox128.Text & """," &
+    """comment"": ""जम्मा Loss to follow up""" &
+    "}," &
+    "{" &
+    """dataElement"": ""mJ0TXeVxxBO""," &
+    """categoryOptionCombo"": ""kdsirVNKdhm""," &
+    """value"": """ & TextBox129.Text & """," &
+    """comment"": ""अन्य घटाइएका जम्मा""" &
+    "}," &
+    "{" &
+    """dataElement"": ""HjuUlo80cC0""," &
+    """categoryOptionCombo"": ""kdsirVNKdhm""," &
+    """value"": """ & TextBox130.Text & """," &
+    """comment"": ""हाल उपचारमा रहेका""" &
+    "}" &
+"]" &
+    "}"
 
+        Dim response As String = SubmitData(apiUrl, userName, passWord, jsonData)
     End Sub
 End Class
